@@ -1,0 +1,22 @@
+ /* Added Poppins font from google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+#navbar-menu {
+    height: 100px;
+}
+.booking-btn {
+    color: #3F87F5;
+    background-color: white;
+    padding: 8px 25px;
+    border-radius: 5px;
+    border: none;
+}
+.wedding-place-btn {
+    color: white;
+    background-color: #3f87f5;
+    padding: 8px 25px;
+    border-radius: 5px;
+    border: none;
+}
