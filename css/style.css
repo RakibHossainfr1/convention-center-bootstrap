@@ -6,6 +6,9 @@ body {
 #navbar-menu {
     height: 100px;
 }
+#carouselslideritem {
+    min-height:calc(100vh - 100px);
+}
 .booking-btn {
     color: #3F87F5;
     background-color: white;
@@ -19,4 +22,29 @@ body {
     padding: 8px 25px;
     border-radius: 5px;
     border: none;
+}
+.btn-choose-plan {
+    color: black;
+    background-color: #f085c9;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
+.list-item li{
+    list-style-type: none;
+}
+#highlight-card {
+        background: #91f1f09c;
+}
+#footer {
+    background-color:#0B0D17;
+
+}
+#plan-place3 {
+    position: relative;
+}
+#toastid {
+    position: relative;
+    top: -270px;
+    right: -275px;
 }
